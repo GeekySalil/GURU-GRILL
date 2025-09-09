@@ -1,0 +1,23 @@
+{
+  "name": "guru-grill",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GeekySalil/GURU-GRILL.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GeekySalil/GURU-GRILL/issues"
+  },
+  "homepage": "https://github.com/GeekySalil/GURU-GRILL#readme",
+  "devDependencies": {
+    "tailwindcss": "^4.1.13"
+  }
+}
